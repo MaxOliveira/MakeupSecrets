@@ -2,7 +2,7 @@
 
 Universidade de Brasília
 * Maxwell
-* 
+
 # Make migrations
 ```bash
 $ python manage.py makemigrations
